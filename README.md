@@ -8,7 +8,7 @@
 * zalo: +84335286360
 * linker: [tranhieu][you_linker]
 
-Flutter channel: [youtobe][youtobe_link]
+Flutter channel: [youtube][youtobe_link]
 
 
 Flutter My Lib: 
